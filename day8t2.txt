@@ -1,0 +1,5 @@
+{"alice": {"password": "alice123", "balance": 0}}
+{"bob": {"password": "qwerty", "balance": 0}}
+{"john": {"password": "123456", "balance": 0}}
+{"abc": {"password": "abc", "balance": 2.0}}
+{"ram": {"password": "123456", "balance": 10000.0}}

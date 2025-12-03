@@ -1,0 +1,4 @@
+Book: Art of War, Sun Tzu, 180
+Book: To Kill a Mockingbird, Harper Lee, 281
+EBook: Digital Fortress, Dan Brown, 356, 1.5MB
+EBook: 1984, George Orwell, 328, 2MB
